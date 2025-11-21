@@ -7,9 +7,7 @@
 
 int main(void) {
 
-    printf("GAME NOT YET IMPLEMENTED.\n");
-
-    // Welcome Message + Explain Rules of Game to User
+    printWelcomeMessage();
 
     // Once rules of game explained ask user if they want to play 
 
